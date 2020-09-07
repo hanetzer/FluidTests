@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[24,)"
+issueTrackerURL="https://github.com/hanetzer/FluidTests/issues"
+license="MIT"
+
+[[mods]]
+    modId="fluidtests"
+    version="${version}"
+    displayName="Fluid Tests"
+    authors="Hanetzer"
+    description='''
+Test mod adding a few fluids.
+    '''
+    displayURL="https://github.com/hanetzer/FluidTests"
+    
+[[dependencies.fluidtests]]
+    modId="forge"
+    mandatory=true
+    versionRange="[${forge_version},)"
+    ordering="NONE"
+    side="BOTH"

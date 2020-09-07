@@ -19,3 +19,10 @@ Test mod adding a few fluids.
     versionRange="[${forge_version},)"
     ordering="NONE"
     side="BOTH"
+
+[[dependencies.fluidtests]]
+    modId="mantle"
+    mandatory=true
+    versionRange="[${mantle_version},)"
+    ordering="NONE"
+    side="BOTH"

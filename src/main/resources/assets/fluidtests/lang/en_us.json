@@ -1,0 +1,16 @@
+{
+  "block.fluidtests.red_fluid": "Red Fluid",
+  "fluid.fluidtests.red": "Red Fluid",
+  "fluid.fluidtests.flowing_red": "Flowing Red Fluid",
+  "item.fluidtests.red_bucket": "Red Fluid Bucket",
+
+  "block.fluidtests.green_fluid": "Green Fluid",
+  "fluid.fluidtests.green": "Green Fluid",
+  "fluid.fluidtests.flowing_green": "Flowing Green Fluid",
+  "item.fluidtests.green_bucket": "Green Fluid Bucket",
+
+  "block.fluidtests.blue_fluid": "Blue Fluid",
+  "fluid.fluidtests.blue": "Blue Fluid",
+  "fluid.fluidtests.flowing_blue": "Flowing Blue Fluid",
+  "item.fluidtests.blue_bucket": "Blue Fluid Bucket"
+}
